@@ -14,7 +14,7 @@ document.getElementById("novaBroma").addEventListener("click",function(){
   
 })
 
-
+//AIXO ES LA PART DEL NOU USUARI
 document.getElementById("btnNouUsuari").addEventListener("click",function(){
   
    fetch('https://randomuser.me/api')
